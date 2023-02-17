@@ -1,0 +1,2 @@
+baixar git e github pelo site oficial de ambos, criar conta no github com email, senha, e nome de usuário.
+instalar git no computador na pasta recomendada, e após isso, configurar para que o github ligue com o git através do nome de usuário e o email.
