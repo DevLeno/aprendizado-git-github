@@ -1,0 +1,1 @@
+conectar o git ao github via terminal, fazendo com que os projetos sejam trabalhados no git e após isso, subido ao github.
