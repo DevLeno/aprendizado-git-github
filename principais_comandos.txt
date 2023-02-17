@@ -1,0 +1,22 @@
+nomedapasta git init = criar pasta
+git log = ver modificações trabalhadas
+clear = limpar terminal
+code . = abrir vscode
+git diff = ver o que mudou e o que não mudou
+git diff --name-only = ver o nome do arquivo que sofreu modificações
+git add . = incluir todos os arquivos monitorados e não monitorados que foram modificados
+git commit -m '' = fazer um commit
+git branch = ver as branchs do projetos
+git branch nomedabranch = criar uma nova branch
+git checkout nomedabranch = mudar para a outra branch
+git checkout -b nomedabranch = criar uma nova branch e mudar seguidamente para ela 
+git branch -D nomedabranch = deletar branch
+git merge nomedabranch = trazer modificações de uma branch para outra
+git clone linkurldoprojetonogithub = clonar projeto para trabalhar no git
+
+subir projeto para o github:
+git remote add origin linkdorepositorionogithub
+git push origin master
+
+touch .gitignore
+colocar nome dos arquivos.formato dentro do arquivo .gitignore para os arquivos serem ignorados ao projeto ser levantado para o github
